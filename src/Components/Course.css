@@ -1,0 +1,19 @@
+.image-area img{
+    height: 200px;
+    width: 300px;
+
+}
+.top-area{
+    display: flex;
+}
+.container{
+    text-align: center;
+    border: 2px solid lightgray;
+    box-shadow: 5px 5px 5px rgba(0, 255, 255, 0.24);
+    padding: 20px;
+    margin-bottom: 40px;
+    border-radius:5px;
+}
+#name{
+    color: #011f4b ;
+}

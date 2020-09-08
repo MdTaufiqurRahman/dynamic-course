@@ -1,0 +1,22 @@
+h1{
+  color: rgba(255, 99, 71, 0.849);
+  text-align: center;
+  margin:20px 0;
+}
+hr{
+  overflow: visible;
+  height: 10px;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px 0 0 0;
+  border-radius: 20px;
+}
+.main-section{
+  display:flex;
+}
+.data-section{
+  width:85%;
+}
+.order-area{
+  border: 2px solid gray;
+}
